@@ -1,6 +1,9 @@
 # Spatial-Partitioned-Boids
 I did this project because I thought it looked cool, as for what it is. Using the Unity engine I made a 2D simulation using the Boid algorithm and optimized it with spacial partitioning. The 2's after some of the scripts are because they are the second attempts and out preformed the frist attempt.
 
+Here is a link to a demo of the [BoidProject](https://parkerallen.github.io/BoidProject/){:target="_blank" rel="noopener"}
+
+
 **Code** folder contains easier access to the code described below
 
 As for the performance of the algorithm on my laptop in a web browser. 
